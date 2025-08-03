@@ -82,7 +82,4 @@ Attach these (or equivalent):
 ![IBMDesign20250802-31-vm5ir3_page-0001](https://github.com/user-attachments/assets/245468ec-eb4e-488b-8d94-d0f37badedbd)
 ![IBMDesign20250802-32-ow0t67_page-0001](https://github.com/user-attachments/assets/75ef0ed2-36ca-440c-b4e9-1de77b9a77c5)
 
----
-
-## 📂 Folder Structure
 
